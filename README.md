@@ -1,2 +1,2 @@
-# C-Presentation-
-This is some of the code, used with the C-Presentation presented by Cory Ringer. 
+# C Presentation
+Sample programs intended for use during and to accompany the C presentation hosted by NCC Programming Club.
