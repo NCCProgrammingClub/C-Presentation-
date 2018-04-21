@@ -14,9 +14,9 @@
  * as a general description of what it is
  * supposed to do. In a large program which may have
  * many files, it is good practice to have each file
- * to fulfill some centralized purpose, each one 
- * contributing the program in a specific way like wheels
- * in a cog.
+ * to fulfill some specific underlying purpose, each one 
+ * contributing the program at large in a specific manner 
+ * like wheels in a cog.
  *
  * I will now go over each specific part of this small
  * file, itself being one program. 
