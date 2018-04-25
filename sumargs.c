@@ -1,6 +1,6 @@
 /*
  * Filename: sumargs.c
- * Purpose: Takes in a bunch of floating point numbers
+ * Purpose: Takes a bunch of floating point numbers
  * and outputs their sum.
  */
 #include <stdio.h>
